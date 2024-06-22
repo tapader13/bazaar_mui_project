@@ -10,11 +10,7 @@ const CtaTwo = () => {
         width: { xs: '100%', sm: '70%', md: '50%' },
       }}
     >
-      <img
-        width={'100%'}
-        src='/public/static/images/bazaar-server.webp'
-        alt=''
-      />
+      <img width={'100%'} src='/static/images/bazaar-server.webp' alt='' />
     </Box>
   );
 };
