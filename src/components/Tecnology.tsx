@@ -5,7 +5,7 @@ const Tecnology = () => {
   return (
     <Box
       sx={{
-        backgroundImage: `url(/src/images/landing-bg-2.svg)`,
+        backgroundImage: `url(/static/images/landing-bg-2.svg)`,
         backgroundSize: 'cover',
         paddingTop: '8rem',
         paddingBottom: '3rem',
@@ -38,7 +38,7 @@ const Tecnology = () => {
             elevation={6}
           >
             <img
-              src='/src/images/react.webp'
+              src='/static/images/react.webp'
               alt=''
               style={{ height: '100px', width: '100px' }}
             />
@@ -64,7 +64,7 @@ const Tecnology = () => {
             elevation={6}
           >
             <img
-              src='/src/images/next-js.webp'
+              src='/static/images/next-js.webp'
               alt=''
               style={{ height: '100px', width: '100px' }}
             />
@@ -90,7 +90,7 @@ const Tecnology = () => {
             elevation={6}
           >
             <img
-              src='/src/images/typescript.webp'
+              src='/static/images/typescript.webp'
               alt=''
               style={{ height: '100px', width: '100px' }}
             />
@@ -116,7 +116,7 @@ const Tecnology = () => {
             elevation={6}
           >
             <img
-              src='/src/images/mui.svg'
+              src='/static/images/mui.svg'
               alt=''
               style={{ height: '100px', width: '100px' }}
             />

@@ -43,7 +43,7 @@ const Demo = () => {
                 borderRadius: '10px',
                 width: { md: '100%', lg: '50%', sm: '60%' },
               }}
-              image='/src/images/asset 3.png'
+              image='/static/images/asset 3.png'
               alt='Live from space album cover'
             />
             <Box
@@ -105,7 +105,7 @@ const Demo = () => {
                 borderRadius: '10px',
                 width: { md: '100%', lg: '50%', sm: '60%' },
               }}
-              image='/src/images/asset 4.png'
+              image='/static/images/asset 4.png'
               alt='Live from space album cover'
             />
             <Box
@@ -167,7 +167,7 @@ const Demo = () => {
                 borderRadius: '10px',
                 width: { md: '100%', lg: '50%', sm: '60%' },
               }}
-              image='/src/images/asset 5.png'
+              image='/static/images/asset 5.png'
               alt='Live from space album cover'
             />
             <Box
@@ -229,7 +229,7 @@ const Demo = () => {
                 borderRadius: '10px',
                 width: { md: '100%', lg: '50%', sm: '60%' },
               }}
-              image='/src/images/asset 6.png'
+              image='/static/images/asset 6.png'
               alt='Live from space album cover'
             />
             <Box

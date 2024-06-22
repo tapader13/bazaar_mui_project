@@ -4,7 +4,7 @@ const Features = () => {
   return (
     <Box
       sx={{
-        backgroundImage: `url(/src/images/landing-bg-2.svg)`,
+        backgroundImage: `url(/static/images/landing-bg-2.svg)`,
         backgroundSize: 'cover',
         paddingBlock: '8rem',
         paddingInline: '24px',
@@ -36,7 +36,7 @@ const Features = () => {
             elevation={3}
           >
             <img
-              src='/src/images/multivendor.svg'
+              src='/static/images/multivendor.svg'
               alt=''
               style={{ height: '100px', width: '100px' }}
             />
@@ -62,7 +62,7 @@ const Features = () => {
             elevation={6}
           >
             <img
-              src='/src/images/optimization.svg'
+              src='/static/images/optimization.svg'
               alt=''
               style={{ height: '100px', width: '100px' }}
             />
@@ -88,7 +88,7 @@ const Features = () => {
             elevation={6}
           >
             <img
-              src='/src/images/multivendor.svg'
+              src='/static/images/multivendor.svg'
               alt=''
               style={{ height: '100px', width: '100px' }}
             />
@@ -114,7 +114,7 @@ const Features = () => {
             elevation={6}
           >
             <img
-              src='/src/images/code.svg'
+              src='/static/images/code.svg'
               alt=''
               style={{ height: '100px', width: '100px' }}
             />
@@ -140,7 +140,7 @@ const Features = () => {
             elevation={6}
           >
             <img
-              src='/src/images/multivendor.svg'
+              src='/static/images/multivendor.svg'
               alt=''
               style={{ height: '100px', width: '100px' }}
             />
@@ -166,7 +166,7 @@ const Features = () => {
             elevation={6}
           >
             <img
-              src='/src/images/admin-dashboard.svg'
+              src='/static/images/admin-dashboard.svg'
               alt=''
               style={{ height: '100px', width: '100px' }}
             />
@@ -192,7 +192,7 @@ const Features = () => {
             elevation={6}
           >
             <img
-              src='/src/images/multivendor.svg'
+              src='/static/images/multivendor.svg'
               alt=''
               style={{ height: '100px', width: '100px' }}
             />
@@ -218,7 +218,7 @@ const Features = () => {
             elevation={6}
           >
             <img
-              src='/src/images/figma.svg'
+              src='/static/images/figma.svg'
               alt=''
               style={{ height: '100px', width: '100px' }}
             />

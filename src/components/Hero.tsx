@@ -90,7 +90,7 @@ const Hero = () => {
         <img
           height={'150px'}
           width={'270px'}
-          src='/src/images/headless-commerce.webp'
+          src='/static/images/headless-commerce.webp'
           alt='hore image not found'
         />{' '}
       </Box>

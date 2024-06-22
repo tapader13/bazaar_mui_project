@@ -88,7 +88,7 @@ export default function SkillShow() {
                     }}
                     component='img'
                     height='394'
-                    image='/src/images/asset 20.jpeg'
+                    image='/static/images/asset 20.jpeg'
                     alt='Product Model'
                   />
                   <Typography
@@ -176,7 +176,7 @@ export default function SkillShow() {
                     }}
                     component='img'
                     height='394'
-                    image='/src/images/asset 21.jpeg'
+                    image='/static/images/asset 21.jpeg'
                     alt='Product Model'
                   />
                   <Box
@@ -249,7 +249,7 @@ export default function SkillShow() {
                     }}
                     component='img'
                     height='394'
-                    image='/src/images/asset 20.jpeg'
+                    image='/static/images/asset 20.jpeg'
                     alt='Product Model'
                   />
                   <Box
@@ -322,7 +322,7 @@ export default function SkillShow() {
                     }}
                     component='img'
                     height='394'
-                    image='/src/images/asset 23.jpeg'
+                    image='/static/images/asset 23.jpeg'
                     alt='Product Model'
                   />
                   <Box
@@ -395,7 +395,7 @@ export default function SkillShow() {
                     }}
                     component='img'
                     height='394'
-                    image='/src/images/asset 22.jpeg'
+                    image='/static/images/asset 22.jpeg'
                     alt='Product Model'
                   />
                   <Box
@@ -468,7 +468,7 @@ export default function SkillShow() {
                     }}
                     component='img'
                     height='394'
-                    image='/src/images/asset 21.jpeg'
+                    image='/static/images/'
                     alt='Product Model'
                   />
                   <Typography
@@ -560,7 +560,7 @@ export default function SkillShow() {
                     }}
                     component='img'
                     height='394'
-                    image='/src/images/asset 20.jpeg'
+                    image='/static/images/asset 20.jpeg'
                     alt='Product Model'
                   />
                   <Box
@@ -633,7 +633,7 @@ export default function SkillShow() {
                     }}
                     component='img'
                     height='394'
-                    image='/src/images/asset 35.png'
+                    image='/static/images/asset 35.png'
                     alt='Product Model'
                   />
                   <Typography
@@ -721,7 +721,7 @@ export default function SkillShow() {
                     }}
                     component='img'
                     height='394'
-                    image='/src/images/asset 34.jpeg'
+                    image='/static/images/asset 34.jpeg'
                     alt='Product Model'
                   />
                   <Box
@@ -794,7 +794,7 @@ export default function SkillShow() {
                     }}
                     component='img'
                     height='394'
-                    image='/src/images/asset 33.jpeg'
+                    image='/static/images/asset 33.jpeg'
                     alt='Product Model'
                   />
                   <Box
@@ -867,7 +867,7 @@ export default function SkillShow() {
                     }}
                     component='img'
                     height='394'
-                    image='/src/images/asset 32.jpeg'
+                    image='/static/images/asset 32.jpeg'
                     alt='Product Model'
                   />
                   <Box
@@ -940,7 +940,7 @@ export default function SkillShow() {
                     }}
                     component='img'
                     height='394'
-                    image='/src/images/asset 31.jpeg'
+                    image='/static/images/asset 31.jpeg'
                     alt='Product Model'
                   />
                   <Box
@@ -1017,7 +1017,7 @@ export default function SkillShow() {
                     }}
                     component='img'
                     height='394'
-                    image='/src/images/asset 30.jpeg'
+                    image='/static/images/asset 30.jpeg'
                     alt='Product Model'
                   />
                   <Box
@@ -1090,7 +1090,7 @@ export default function SkillShow() {
                     }}
                     component='img'
                     height='394'
-                    image='/src/images/asset 29.jpeg'
+                    image='/static/images/asset 29.jpeg'
                     alt='Product Model'
                   />
                   <Box
@@ -1163,7 +1163,7 @@ export default function SkillShow() {
                     }}
                     component='img'
                     height='394'
-                    image='/src/images/asset 28.jpeg'
+                    image='/static/images/asset 28.jpeg'
                     alt='Product Model'
                   />
                   <Box
@@ -1236,7 +1236,7 @@ export default function SkillShow() {
                     }}
                     component='img'
                     height='394'
-                    image='/src/images/asset 27.jpeg'
+                    image='/static/images/asset 27.jpeg'
                     alt='Product Model'
                   />
                   <Box
@@ -1309,7 +1309,7 @@ export default function SkillShow() {
                     }}
                     component='img'
                     height='394'
-                    image='/src/images/asset 26.jpeg'
+                    image='/static/images/asset 26.jpeg'
                     alt='Product Model'
                   />
                   <Box
@@ -1382,7 +1382,7 @@ export default function SkillShow() {
                     }}
                     component='img'
                     height='394'
-                    image='/src/images/asset 25.png'
+                    image='/static/images/asset 25.png'
                     alt='Product Model'
                   />
                   <Box

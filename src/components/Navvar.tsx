@@ -152,7 +152,7 @@ const Navvar = () => {
                 color='inherit'
                 aria-label='menu'
               >
-                <img src='/src/images/logo2.svg' alt='' />
+                <img src='/static/images/logo2.svg' alt='' />
               </IconButton>
             </Box>
 

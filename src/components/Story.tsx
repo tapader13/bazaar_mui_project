@@ -29,7 +29,11 @@ const Story = () => {
               borderRadius: '12px',
             }}
           >
-            <img width={'100%'} src='/src/images/product-model.webp' alt='' />
+            <img
+              width={'100%'}
+              src='/static/images/product-model.webp'
+              alt=''
+            />
           </Box>
           <Box>
             <Typography variant='h4' sx={{ fontWeight: 600 }}>
@@ -116,7 +120,7 @@ const Story = () => {
           >
             <img
               width={'100%'}
-              src='/src/images/rest-api-endpoint.webp'
+              src='/static/images/rest-api-endpoint.webp'
               alt=''
             />
           </Box>

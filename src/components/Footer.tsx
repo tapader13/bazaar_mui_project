@@ -13,21 +13,25 @@ const Footer = () => {
       >
         <Typography variant='h6' sx={{ display: 'flex', alignItems: 'center' }}>
           Developed with{' '}
-          <img height={'20px'} width={'20px'} src='/src/images/asset 108.svg' />
+          <img
+            height={'20px'}
+            width={'20px'}
+            src='/static/images/asset 108.svg'
+          />
           {'  '}& Care by UI Lib
         </Typography>
         <Typography>
           <IconButton sx={{ height: '50px', width: '50px' }}>
-            <img src='/src/images/asset 109.svg' alt='' />
+            <img src='/static/images/asset 109.svg' alt='' />
           </IconButton>{' '}
           <IconButton sx={{ height: '50px', width: '50px' }}>
-            <img src='/src/images/asset 110.svg' alt='' />
+            <img src='/static/images/asset 110.svg' alt='' />
           </IconButton>{' '}
           <IconButton sx={{ height: '50px', width: '50px' }}>
-            <img src='/src/images/asset 111.svg' alt='' />
+            <img src='/static/images/asset 111.svg' alt='' />
           </IconButton>{' '}
           <IconButton sx={{ height: '50px', width: '50px' }}>
-            <img src='/src/images/asset 112.svg' alt='' />
+            <img src='/static/images/asset 112.svg' alt='' />
           </IconButton>
         </Typography>
       </Box>
